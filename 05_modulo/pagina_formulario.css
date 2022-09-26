@@ -1,0 +1,35 @@
+* {
+    margin:10px;
+    padding: 0;
+    box-sizing: boder-box;
+    background: rgb(248, 247, 247);
+}
+
+h1, form, div, label, input {
+    background: white;
+}
+
+.container {
+    margin: 60px 350px auto 350px;
+}
+
+.formulario-imagem {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.label-input {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button button {
+    height: 20px;
+    width: 100%; 
+    background: #080808;
+    color:#FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+
